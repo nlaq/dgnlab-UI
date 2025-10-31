@@ -6,3 +6,4 @@ GUI over [DNGLab](https://github.com/dnglab/dnglab) to convert raw image files t
 It works on linux and Mac Os. To use it you MUST HAVE DNGLAB [https://github.com/dnglab/dnglab] INSTALLED. If you dowload a release [https://github.com/dnglab/dnglab/releases] make sure to install it (just copy the file) in ~/.local/bin or /usr/bin for Linux or /usr/local/bin for Mac OS (or create a symlink to that path).
 
 For the gui just copy the release file [https://github.com/nlaq/dgnlab-UI/releases] to the ~/.local/bin or /usr/bin for linux and the .desktop file to ~/.local/share/applications/ or /usr/share/applications/ for Linux or to the Applications folder for Mac OS.
+To compile the app, just use cargo build.
